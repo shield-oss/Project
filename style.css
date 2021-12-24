@@ -55,3 +55,30 @@
   margin: 5px;
   padding: 10px;
 }
+
+.content {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 180px;
+}
+
+img {
+  width: 128px;
+  height: 128px;
+}
+
+.text {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.prev {
+  border: solid 2px #806868;
+  display: flex;
+}
+
+.item {
+  border: 2px solid lightslategray;
+  margin: 10px;
+}
